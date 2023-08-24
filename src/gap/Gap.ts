@@ -219,6 +219,16 @@ export class Gap extends EventEmitter {
             minCeLengthMs: 2.5,
             maxCeLengthMs: 3.75,
           },
+          PhyCoded: {
+            scanIntervalMs: 100,
+            scanWindowMs: 100,
+            connectionIntervalMinMs: 7.5,
+            connectionIntervalMaxMs: 100,
+            connectionLatency: 0,
+            supervisionTimeoutMs: 4000,
+            minCeLengthMs: 2.5,
+            maxCeLengthMs: 3.75,
+          },
         },
       });
     } else {
