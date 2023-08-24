@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rosek86/n-ble"
+    "url": "https://github.com/kele6ra/n-ble"
   },
   "scripts": {
     "start": "node lib/index.js",
@@ -37,7 +37,7 @@
     "win32"
   ],
   "devDependencies": {
-    "@rosek86/bluetooth-hci-socket": "https://github.com/rosek86/node-bluetooth-hci-socket.git#d7ac57eb3dd69cfe5bcd075977b24888dc3bd555",
+    "@rosek86/bluetooth-hci-socket": "https://github.com/kele6ra/node-bluetooth-hci-socket.git#b3e8ffab70e71b42d4691cf104403a8059f0b322",
     "@types/chai": "^4.3.5",
     "@types/debug": "^4.1.8",
     "@types/mocha": "^9.1.1",
